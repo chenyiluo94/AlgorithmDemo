@@ -2,7 +2,7 @@ package com.example.algorithmdemo;
 
 /**
  * 选择排序
- * 1.思路
+ *  1.思路
  *    选择所有数中最大/小，从n/0开始放置
  *  2.步骤
  *    找到所有数中最小的
